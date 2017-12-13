@@ -1,27 +1,27 @@
 // solution
-var calc = {
+const calc = {
   add: function (addend, augend) {
-    return addend1 + addend2;
+    return addend + augend
   },
   subtract: function (minuend, subtrahend) {
-    return minuend - subtrahend;
+    return minuend - subtrahend
   },
   multiply: function (multiplicand, multiplier) {
-    return multiplicand * multiplier;
+    return multiplicand * multiplier
   },
   divide: function (dividend, divisor) {
-    return dividend / divisor;
+    return dividend / divisor
   },
   exponentiate: function (base, exponent) {
-    return Math.pow(base, exponent);
+    return base ** exponent
   }
-};
+}
 
-console.log(calc.add(4, 5));
-console.log(calc.subtract(4, 5));
-console.log(calc.multiply(4, 5));
-console.log(calc.divide(4, 5));
-console.log(calc.exponentiate(4, 5));
+console.log(calc.add(4, 5))
+console.log(calc.subtract(4, 5))
+console.log(calc.multiply(4, 5))
+console.log(calc.divide(4, 5))
+console.log(calc.exponentiate(4, 5))
 
 // bonus 1 solution by amaseda
 var calc = {
