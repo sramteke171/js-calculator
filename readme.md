@@ -10,9 +10,9 @@ Build a JS Calculator
 
 ## Instructions
 
-1.  Create your own fork of this [repl.it](https://repl.it/@marcwright/JS-Calculator-HW)
+1.  Please create your own fork of this [starter repl.it](https://repl.it/@marcwright/JS-Calculator-HW)
 
-You are required to turn in your submission by creatin an issue on this repository.
+You are required to turn in your submission by creating an issue on this repository.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 8:00am.
 
