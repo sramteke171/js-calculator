@@ -10,13 +10,11 @@ Build a JS Calculator
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Fulfill the listed requirements.
+1.  Create your own fork of this [repl.it](https://repl.it/@marcwright/JS-Calculator-HW)
 
-Starter code is available in [`calculator.js`](calculator.js). You are required to turn in your submission by making a pull request on the original repository.
+You are required to turn in your submission by creatin an issue on this repository.
 
-Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 9:00am.
+Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 8:00am.
 
 ## Requirements
 
