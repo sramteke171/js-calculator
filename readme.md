@@ -39,7 +39,8 @@ Your task is to create a Javascript object that represents a calculator. It shou
 - Exponents (Hint: Look up Javascript's Math object)
 - Square root (Hint: Look up Javascript's Math object)
 
-Commit your progress every time you finish a calculater method. add a nice commit message, i.e "Finish Addition method" 
+Commit your progress every time you finish a calculater method. add a nice commit message, i.e "Finish Addition method".
+
 You should be able to run these methods like so from your browser's Javascript console...
 
 ```js
