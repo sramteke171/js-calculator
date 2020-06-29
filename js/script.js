@@ -27,5 +27,10 @@ let calculator = {
         let exponent = Math.pow(int1, int2);
         console.log(`exponent is ${exponent}`);
         return exponent;
+    },
+    SquareRoot: function (int) {
+        let squareRoot = Math.sqrt(int);
+        console.log(`square root is ${squareRoot}`);
+        return squareRoot;
     }
 };
