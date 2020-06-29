@@ -23,5 +23,9 @@ let calculator = {
         console.log(`division  is ${divide}`);
         return divide;
     },
-
+    Exponents: function (int1, int2) {
+        let exponent = Math.pow(int1, int2);
+        console.log(`exponent is ${exponent}`);
+        return exponent;
+    }
 };
