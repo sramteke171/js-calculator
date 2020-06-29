@@ -12,5 +12,11 @@ let calculator = {
         let diff = num1 - num2;
         console.log(`diff is ${diff}`);
         return diff;
+    },
+    Multiplication: function (int1, int2) {
+        let multiply = int1 * int2;
+        console.log(`multiplication  is ${multiply}`);
+        return multiply;
     }
+
 };
