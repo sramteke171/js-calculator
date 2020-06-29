@@ -17,6 +17,11 @@ let calculator = {
         let multiply = int1 * int2;
         console.log(`multiplication  is ${multiply}`);
         return multiply;
-    }
+    },
+    Division: function (int1, int2) {
+        let divide = int1 / int2;
+        console.log(`division  is ${divide}`);
+        return divide;
+    },
 
 };
